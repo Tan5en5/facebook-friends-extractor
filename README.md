@@ -10,9 +10,9 @@ Hubert Bonisseur de La Bath;055117678912345
 ```
 
 ## How to
-Go to your facebook profile and click on your friends tab, **scroll down until you friends list is completely loaded**.
+Go to your facebook profile and click on your friends tab, **~~scroll down until you friends list is completely loaded~~**.
 
 - Chrome : Run script with [Snippets Of Code functionality](https://developers.google.com/web/tools/chrome-devtools/snippets "Snippets Of Code functionality").
-- Firefox : Run script with [Scratchpad tool](https://developer.mozilla.org/en-US/docs/Tools/Scratchpad "Scratchpad tool").
+- Firefox : Run script with [Web Console](https://developer.mozilla.org/en-US/docs/Tools/Web_Console/Opening_the_Web_Console "Opening the Web Console").
 
 And voila!
